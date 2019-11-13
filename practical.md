@@ -2,7 +2,7 @@
 ## NAME- *PRATYUSH KUMAR*
 ## ROLL NO- *1914134*
 ## BRANCH- *CIVIL ENGINEERING*
-![LOGO]()
+![LOGO](gndec-logo.jpg)
 
 # List of programs
 ### 1.Addition of two integers
