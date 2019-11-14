@@ -895,7 +895,7 @@ Name ?:saaho
 ID ?:777                                                                                                                                        
 Salary ?:30000                                                                                                                         
                                                                                                                                                 
-Entered detail is:Name: saahoId: 777Salary: 30000.000000        
+Entered detail is:Name:saaho Id:777 Salary: 30000
 ```
 # 25.Finding product of fractions using structures
 ```
